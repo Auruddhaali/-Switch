@@ -1,0 +1,347 @@
+@keyframes animation-12 {
+  from {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    background: #ffffffff;
+  }
+  to {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    background: #29404cff;
+  }
+}
+.animationClass-12 {
+  animation: animation-12 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-pdiv-12 {
+  from {
+    width: min(331.5306701660156px, 100vw);
+    height: calc(0.71 * min(331.5306701660156px, 100vw));
+  }
+  to {
+    width: min(340.84405517578125px, 100vw);
+    height: calc(0.69 * min(340.84405517578125px, 100vw));
+  }
+}
+
+.parent-animation-12 {
+  animation: animation-pdiv-12 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-17 {
+  from {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    background: #29404cff;
+  }
+  to {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    background: #ffffffff;
+  }
+}
+.animationClass-17 {
+  animation: animation-17 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-pdiv-17 {
+  from {
+    width: min(340.84405517578125px, 100vw);
+    height: calc(0.69 * min(340.84405517578125px, 100vw));
+  }
+  to {
+    width: min(331.5306701660156px, 100vw);
+    height: calc(0.71 * min(331.5306701660156px, 100vw));
+  }
+}
+
+.parent-animation-17 {
+  animation: animation-pdiv-17 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-13 {
+  from {
+    width: 43.13%;
+    height: 25.44%;
+    top: 38.8%;
+    left: 29.74%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 100px 100px 100px 100px;
+    background: #5987ffff;
+  }
+  to {
+    width: 42.54%;
+    height: 25.44%;
+    top: 38.8%;
+    left: 30.49%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 100px 100px 100px 100px;
+    background: #000000ff;
+  }
+}
+.animationClass-13 {
+  animation: animation-13 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-18 {
+  from {
+    width: 42.54%;
+    height: 25.44%;
+    top: 38.8%;
+    left: 30.49%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 100px 100px 100px 100px;
+    background: #000000ff;
+  }
+  to {
+    width: 43.13%;
+    height: 25.44%;
+    top: 38.8%;
+    left: 29.74%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 100px 100px 100px 100px;
+    background: #5987ffff;
+  }
+}
+.animationClass-18 {
+  animation: animation-18 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-null96 {
+  from {
+    opacity: 0;
+    z-index: -10;
+  }
+  to {
+    width: 28.97%;
+    height: 86.67%;
+    top: 1.64%;
+    left: 11.72%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+  }
+}
+.animationClass-null96 {
+  animation: animation-null96 0.3s ease-out 0s normal forwards;
+}
+@keyframes animationBg-96 {
+  from {
+    background-image: url("./images/image0.png");
+    opacity: 1;
+  }
+  to {
+    background-image: url("./images/image0.png");
+    opacity: 1;
+  }
+}
+.bgClass-96 {
+  animation: animationBg-96 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-96 {
+  from {
+    width: 28.97%;
+    height: 86.67%;
+    top: 1.64%;
+    left: 11.72%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+  }
+  to {
+    opacity: 0;
+    z-index: -10;
+  }
+}
+.animationClass-96 {
+  animation: animation-96 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-14 {
+  from {
+    width: 35.67%;
+    height: 75%;
+    top: 11.66%;
+    left: 58.74%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    border-radius: 50%;
+    background: #fffb92ff;
+  }
+  to {
+    width: 35.17%;
+    height: 75%;
+    top: 11.64%;
+    left: 8.27%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    border-radius: 50%;
+    background: #ffffffff;
+  }
+}
+.animationClass-14 {
+  animation: animation-14 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-19 {
+  from {
+    width: 35.17%;
+    height: 75%;
+    top: 11.64%;
+    left: 8.27%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    border-radius: 50%;
+    background: #ffffffff;
+  }
+  to {
+    width: 35.67%;
+    height: 75%;
+    top: 11.66%;
+    left: 58.74%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    border-radius: 50%;
+    background: #fffb92ff;
+  }
+}
+.animationClass-19 {
+  animation: animation-19 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-85 {
+  from {
+    width: 12.67%;
+    height: 22.05%;
+    top: 39.64%;
+    left: 32.45%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+  }
+  to {
+    opacity: 0;
+    z-index: -10;
+  }
+}
+.animationClass-85 {
+  animation: animation-85 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-null85 {
+  from {
+    opacity: 0;
+    z-index: -10;
+  }
+  to {
+    width: 12.67%;
+    height: 22.05%;
+    top: 39.64%;
+    left: 32.45%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+  }
+}
+.animationClass-null85 {
+  animation: animation-null85 0.3s ease-out 0s normal forwards;
+}
+@keyframes animationBg-85 {
+  from {
+    background-image: url("./images/image0.png");
+    opacity: 1;
+  }
+  to {
+    background-image: url("./images/image0.png");
+    opacity: 1;
+  }
+}
+.bgClass-85 {
+  animation: animationBg-85 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-107 {
+  from {
+    width: 14.78%;
+    height: 21.2%;
+    top: 40.92%;
+    left: 55.68%;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+  }
+  to {
+    opacity: 0;
+    z-index: -10;
+  }
+}
+.animationClass-107 {
+  animation: animation-107 0.3s ease-out 0s normal forwards;
+}
+@keyframes animation-null107 {
+  from {
+    opacity: 0;
+    z-index: -10;
+  }
+  to {
+    width: 14.78%;
+    height: 21.2%;
+    top: 40.92%;
+    left: 55.68%;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+  }
+}
+.animationClass-null107 {
+  animation: animation-null107 0.3s ease-out 0s normal forwards;
+}
+@keyframes animationBg-107 {
+  from {
+    background-image: url("./images/image1.png");
+    opacity: 1;
+  }
+  to {
+    background-image: url("./images/image1.png");
+    opacity: 1;
+  }
+}
+.bgClass-107 {
+  animation: animationBg-107 0.3s ease-out 0s normal forwards;
+}
